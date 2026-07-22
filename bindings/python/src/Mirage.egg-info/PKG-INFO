@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: Mirage
+Version: 0.0.0
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Dynamic: classifier

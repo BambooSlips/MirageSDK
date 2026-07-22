@@ -1,0 +1,16 @@
+MANIFEST.in
+pyproject.toml
+setup.py
+src/Mirage/Mirage.py
+src/Mirage/__init__.py
+src/Mirage/_mirage_py.so
+src/Mirage/libmirage.so
+src/Mirage.egg-info/PKG-INFO
+src/Mirage.egg-info/SOURCES.txt
+src/Mirage.egg-info/dependency_links.txt
+src/Mirage.egg-info/top_level.txt
+src/Mirage/lib/__init__.py
+src/Mirage/lib/linux_x86_64/__init__.py
+src/Mirage/lib/linux_x86_64/_mirage_py.so
+src/Mirage/lib/linux_x86_64/libmirage.so
+src/Mirage/lib/win_x86_64/__init__.py
